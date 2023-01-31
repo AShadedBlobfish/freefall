@@ -1,5 +1,13 @@
+Version: Alpha 0.0.2
+Release date: 31/01/2023
+Changes:
+	- The falling is now more accurately animated
+	- Changed scale to 10 pixels = 1 metre (might change again soon)
+Known issues:
+	- The animated time is greater than the simulated time by a factor of around 1.25x every time, I am looking into a fix. (Numbers and mathematical simulation remain correct)
+
 Version: Alpha 0.0.1
-Release date: N/A
+Release date: 31/01/2023
 Changes:
 	- First trial version
 Known issues:
