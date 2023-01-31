@@ -1,4 +1,4 @@
 Version: Alpha 0.0.1
-Released: 31/01/2023
+Release date: N/A
 Changes:
 	- First trial version
