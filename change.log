@@ -2,4 +2,6 @@ Version: Alpha 0.0.1
 Release date: N/A
 Changes:
 	- First trial version
+Known issues:
+	- Doesn't accurately simulate the drop visually, but the number are all correct
 
