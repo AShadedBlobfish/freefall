@@ -1,3 +1,11 @@
+Version: Alpha 0.0.4
+Release date: 01/02/2023
+Changes:
+	- Can't believe I used a version number for this - changed the default value for the height input box to 100m from 10m
+Known issues:
+	- Same as a-0.0.3
+	
+
 Version: Alpha 0.0.3
 Release date: 01/02/2023
 Changes:
