@@ -2,7 +2,7 @@ Version: Alpha 0.0.3
 Release date: 01/02/2023
 Changes:
 	- Changed scale to 1 pixel = 1 metre
-	- Changed the sample rate for the position of the falling object to 10Hz
+	- Changed the sample rate for the position of the falling object to 10Hz from 4Hz
 Known issues:
 	- The animated time is still greater than the simulated time, I am still looking into a fix but it seems likely that this is just due to processing time. (Numbers and mathematical simulation still remain correct)
 
